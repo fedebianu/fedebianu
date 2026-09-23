@@ -1,10 +1,10 @@
-## About me
+## 👋 About me
 
 I'm a smart contract security auditor at [yAudit](https://yaudit.dev/).
 
 My audit experience covers lending markets, stablecoins, yield vaults, staking, governance, oracles, cross-chain integrations, and smart contract wallets.
 
-## Audits
+## 📋 Audits
 
 ### 2026
 
