@@ -8,6 +8,7 @@ My audit experience covers lending markets, stablecoins, yield vaults, staking, 
 
 ### 2026
 
+- [**UFG – Factory and Treasuries**](https://reports.yaudit.dev/2026-10-UFG-Factory-and-Treasuries): Memecoin treasuries funded by creator fees.
 - [**Sickle – Automation**](https://reports.yaudit.dev/2026-08-VFAT-Sickle-Automation): Automated DeFi position management.
 - [**Lynxify – LYNX Token Contracts**](https://reports.yaudit.dev/2026-07-Lynxify-LYNX-Token-Contracts): HBAR vault and staking strategies.
 - [**Promis**](https://reports.yaudit.dev/2026-07-Promis-Smart-Contracts): Yield-bearing tokens and vaults.
